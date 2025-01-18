@@ -1,1 +1,1 @@
-Contains linear regressions examples and k-means clustering with predictive capabilities using sklearn.
+Contains linear regression examples and k-means clustering using sklearn.
