@@ -4,7 +4,7 @@ This repository contains a collection of data science, machine learning, and ana
 
 ## Projects Overview
 
-### Retail Sales Inferential Analysis
+### 1. Retail Sales Inferential Analysis
 **Project Scope:**  
 Analyzed sales data to measure the impact of a new store layout and signage on revenue.  
 
@@ -18,7 +18,7 @@ Analyzed sales data to measure the impact of a new store layout and signage on r
 
 ---
 
-### COVID-19 Data Analysis & Visualization
+### 2. COVID-19 Data Analysis & Visualization
 **Project Scope:**  
 Analyzed the impact of COVID-19 over time using real-time public API data.  
 
@@ -32,7 +32,7 @@ Analyzed the impact of COVID-19 over time using real-time public API data.
 
 ---
 
-### Natural Language Processing (NLP) on Wikipedia Data
+### 3. Natural Language Processing (NLP) on Wikipedia Data
 **Project Scope:**  
 Applied NLP techniques to extract meaningful insights from Wikipedia articles on ACM Turing Award winners.  
 
@@ -46,7 +46,7 @@ Applied NLP techniques to extract meaningful insights from Wikipedia articles on
 
 ---
 
-### Handwritten Digit Classification Using Convolutional Neural Networks (CNNs)
+### 4. Handwritten Digit Classification Using Convolutional Neural Networks (CNNs)
 **Project Scope:**  
 Developed a deep learning model to classify handwritten digits with high accuracy.  
 
