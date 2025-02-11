@@ -1,6 +1,6 @@
 # Ayush Pradhan - Data Science & Analytics Projects
 
-This repository contains a collection of data science, machine learning, and analytics projects that demonstrate skills in data analysis, predictive modeling, and visualization using Python, R, and SQL. Each project includes code, documentation, and datasets (where applicable) to provide a detailed understanding of the scope, methodology, and results.
+This repository contains a collection of data science, machine learning, and analytics projects that demonstrate skills in data analysis, predictive modeling, and visualization using Python and R. Each project includes code, documentation, and datasets (where applicable) to provide a detailed understanding of the scope, methodology, and results.
 
 ## Projects Overview
 
